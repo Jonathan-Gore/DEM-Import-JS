@@ -1,0 +1,16 @@
+{
+  "name": "dem-import-js",
+  "version": "1.0.0",
+  "description": "This is public code for converting a standard DEM GEOTIFF file into an array [lat, long, msl] in javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geotiff": "^2.1.1"
+  },
+  "type": "module"
+}
